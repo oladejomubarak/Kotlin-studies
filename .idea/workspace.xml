@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="823792af-eee2-417b-b4b1-146eb26c4933" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Funtions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Funtions.kt" afterDir="false" />
-    </list>
+    <list default="true" id="823792af-eee2-417b-b4b1-146eb26c4933" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +37,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.FuntionsKt">
+  <component name="RunManager" selected="Kotlin.LoopsKt">
     <configuration name="ConditionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConditionKt" />
       <module name="Variables" />
@@ -61,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+    <configuration name="LoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopsKt" />
       <module name="Variables" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LoopsKt" />
         <item itemvalue="Kotlin.FuntionsKt" />
         <item itemvalue="Kotlin.NullKt" />
         <item itemvalue="Kotlin.ControlFlowKt" />
         <item itemvalue="Kotlin.ConditionKt" />
-        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678723103363</updated>
       <workItem from="1678729806467" duration="2410000" />
-      <workItem from="1678839942528" duration="16016000" />
+      <workItem from="1678839942528" duration="16785000" />
     </task>
     <servers />
   </component>
