@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="823792af-eee2-417b-b4b1-146eb26c4933" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ControlFlow.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ControlFlow.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.NullKt">
+  <component name="RunManager" selected="Kotlin.FuntionsKt">
     <configuration name="ConditionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConditionKt" />
       <module name="Variables" />
@@ -50,6 +49,13 @@
     </configuration>
     <configuration name="ControlFlowKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ControlFlowKt" />
+      <module name="Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FuntionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FuntionsKt" />
       <module name="Variables" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,6 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FuntionsKt" />
         <item itemvalue="Kotlin.NullKt" />
         <item itemvalue="Kotlin.ControlFlowKt" />
         <item itemvalue="Kotlin.ConditionKt" />
@@ -87,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678723103363</updated>
       <workItem from="1678729806467" duration="2410000" />
-      <workItem from="1678839942528" duration="9578000" />
+      <workItem from="1678839942528" duration="11259000" />
     </task>
     <servers />
   </component>
