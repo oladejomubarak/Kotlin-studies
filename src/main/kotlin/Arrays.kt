@@ -1,5 +1,5 @@
 fun main(){
-    val alphanumerics = arrayOf("mub", "lap", "had", 1, 3, "lad", 7)
+    val alphanumerics = arrayOf("mub", "lap", "had", 1, 3, "lad", 7, 's', 'y')
     var counter = 0
     for (i in alphanumerics){
         if( i is Int){
