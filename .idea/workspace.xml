@@ -38,9 +38,16 @@
     "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ArayChallengeKt">
+  <component name="RunManager" selected="Kotlin.ArrayChallenge2Kt">
     <configuration name="ArayChallengeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArayChallengeKt" />
+      <module name="Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayChallenge2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayChallenge2Kt" />
       <module name="Variables" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,13 +67,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LoopsKt" />
-      <module name="Variables" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WhileLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WhileLoopKt" />
       <module name="Variables" />
@@ -76,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArrayChallenge2Kt" />
         <item itemvalue="Kotlin.ArayChallengeKt" />
         <item itemvalue="Kotlin.ArraysKt" />
         <item itemvalue="Kotlin.Challenge1Kt" />
         <item itemvalue="Kotlin.WhileLoopKt" />
-        <item itemvalue="Kotlin.LoopsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678723103363</updated>
       <workItem from="1678729806467" duration="2410000" />
-      <workItem from="1678839942528" duration="29565000" />
+      <workItem from="1678839942528" duration="30112000" />
     </task>
     <servers />
   </component>

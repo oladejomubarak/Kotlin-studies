@@ -1,6 +1,6 @@
 fun main (){
     val nums : Array<Int> = arrayOf(3,4,23,3,78,657,8,90,75,45,67)
-    println(findMaxOrMinNum(nums, true))
+    println(findMaxOrMinNum(nums, false))
 
 }
 fun findMaxOrMinNum(numbers: Array<Int>, searchForMax: Boolean):Int{
