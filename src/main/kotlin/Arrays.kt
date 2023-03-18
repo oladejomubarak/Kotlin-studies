@@ -1,3 +1,3 @@
 fun main(){
-    val
+    val alphanumerics = arrayOf("mub", "lap", "")
 }
