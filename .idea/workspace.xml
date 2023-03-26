@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="823792af-eee2-417b-b4b1-146eb26c4933" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Conditions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Conditions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/OOP.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OOP.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,16 +32,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "inlay.hints"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.OOPKt">
+}</component>
+  <component name="RunManager" selected="Kotlin.ContructorKt">
     <configuration name="ArayChallengeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArayChallengeKt" />
       <module name="Variables" />
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Challenge1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Challenge1Kt" />
+    <configuration name="ContructorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ContructorKt" />
       <module name="Variables" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ContructorKt" />
         <item itemvalue="Kotlin.OOPKt" />
         <item itemvalue="Kotlin.ArrayChallenge2Kt" />
         <item itemvalue="Kotlin.ArayChallengeKt" />
         <item itemvalue="Kotlin.ArraysKt" />
-        <item itemvalue="Kotlin.Challenge1Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -97,6 +97,7 @@
       <updated>1678723103363</updated>
       <workItem from="1678729806467" duration="2410000" />
       <workItem from="1678839942528" duration="39239000" />
+      <workItem from="1679586153452" duration="7509000" />
     </task>
     <servers />
   </component>
