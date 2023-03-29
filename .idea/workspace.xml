@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="823792af-eee2-417b-b4b1-146eb26c4933" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Singleton.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Singleton.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.CompanionObjectsKt">
-    <configuration name="ArrayChallenge2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayChallenge2Kt" />
-      <module name="Variables" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.SingletonKt">
     <configuration name="CompanionObjectsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CompanionObjectsKt" />
       <module name="Variables" />
@@ -77,13 +70,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SingletonKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingletonKt" />
+      <module name="Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SingletonKt" />
         <item itemvalue="Kotlin.CompanionObjectsKt" />
         <item itemvalue="Kotlin.LateInitKt" />
         <item itemvalue="Kotlin.ContructorKt" />
         <item itemvalue="Kotlin.OOPKt" />
-        <item itemvalue="Kotlin.ArrayChallenge2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -97,7 +97,7 @@
       <updated>1678723103363</updated>
       <workItem from="1678729806467" duration="2410000" />
       <workItem from="1678839942528" duration="39239000" />
-      <workItem from="1679586153452" duration="12120000" />
+      <workItem from="1679586153452" duration="14178000" />
     </task>
     <servers />
   </component>
