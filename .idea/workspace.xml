@@ -13,6 +13,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -40,14 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ContructorKt">
-    <configuration name="ArayChallengeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArayChallengeKt" />
-      <module name="Variables" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.CompanionObjectsKt">
     <configuration name="ArrayChallenge2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayChallenge2Kt" />
       <module name="Variables" />
@@ -55,8 +49,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraysKt" />
+    <configuration name="CompanionObjectsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompanionObjectsKt" />
       <module name="Variables" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,6 +58,13 @@
     </configuration>
     <configuration name="ContructorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ContructorKt" />
+      <module name="Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LateInitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LateInitKt" />
       <module name="Variables" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CompanionObjectsKt" />
+        <item itemvalue="Kotlin.LateInitKt" />
         <item itemvalue="Kotlin.ContructorKt" />
         <item itemvalue="Kotlin.OOPKt" />
         <item itemvalue="Kotlin.ArrayChallenge2Kt" />
-        <item itemvalue="Kotlin.ArayChallengeKt" />
-        <item itemvalue="Kotlin.ArraysKt" />
       </list>
     </recent_temporary>
   </component>
@@ -96,7 +97,7 @@
       <updated>1678723103363</updated>
       <workItem from="1678729806467" duration="2410000" />
       <workItem from="1678839942528" duration="39239000" />
-      <workItem from="1679586153452" duration="8438000" />
+      <workItem from="1679586153452" duration="12120000" />
     </task>
     <servers />
   </component>
