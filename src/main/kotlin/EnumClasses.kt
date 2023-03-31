@@ -8,6 +8,15 @@ fun main(){
 
     println(DIRECTION.WEST.printData())
 
+    val direction = DIRECTION.valueOf("north".uppercase())
+
+    when(direction){
+        DIRECTION.WEST -> println("the direction is west")
+        DIRECTION.NORTH -> println("the direction is north")
+        DIRECTION.EAST -> println("the direction is east")
+        DIRECTION.SOUTH -> println("the direction is south")
+    }
+
 }
 enum class DIRECTION(var direction: String, var distance: Int){
     NORTH("north", 30),
