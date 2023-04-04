@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="823792af-eee2-417b-b4b1-146eb26c4933" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Acct.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Acct.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Inheritance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Inheritance.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.AcctKt">
+  <component name="RunManager" selected="Kotlin.InheritanceKt">
     <configuration name="AcctKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AcctKt" />
       <module name="Variables" />
@@ -52,6 +52,13 @@
     </configuration>
     <configuration name="EnumClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EnumClassesKt" />
+      <module name="Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InheritanceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InheritanceKt" />
       <module name="Variables" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,20 +78,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingletonKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SingletonKt" />
-      <module name="Variables" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InheritanceKt" />
         <item itemvalue="Kotlin.AcctKt" />
         <item itemvalue="Kotlin.InnerClassesKt" />
         <item itemvalue="Kotlin.EnumClassesKt" />
         <item itemvalue="Kotlin.LazyInitializerKt" />
-        <item itemvalue="Kotlin.SingletonKt" />
       </list>
     </recent_temporary>
   </component>
@@ -99,7 +99,7 @@
       <workItem from="1678729806467" duration="2410000" />
       <workItem from="1678839942528" duration="39239000" />
       <workItem from="1679586153452" duration="18197000" />
-      <workItem from="1680191241664" duration="9240000" />
+      <workItem from="1680191241664" duration="15968000" />
     </task>
     <servers />
   </component>
