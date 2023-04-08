@@ -41,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.SealedKt">
+  <component name="RunManager" selected="Kotlin.DataClassesAutoKt">
     <configuration name="AcctKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AcctKt" />
       <module name="Variables" />
@@ -49,8 +49,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EnumClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EnumClassesKt" />
+    <configuration name="DataClassesAutoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataClassesAutoKt" />
+      <module name="Variables" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataClassesKt" />
       <module name="Variables" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,13 +65,6 @@
     </configuration>
     <configuration name="InheritanceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="InheritanceKt" />
-      <module name="Variables" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InnerClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InnerClassesKt" />
       <module name="Variables" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DataClassesAutoKt" />
+        <item itemvalue="Kotlin.DataClassesKt" />
         <item itemvalue="Kotlin.SealedKt" />
         <item itemvalue="Kotlin.InheritanceKt" />
         <item itemvalue="Kotlin.AcctKt" />
-        <item itemvalue="Kotlin.InnerClassesKt" />
-        <item itemvalue="Kotlin.EnumClassesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +98,7 @@
       <workItem from="1678729806467" duration="2410000" />
       <workItem from="1678839942528" duration="39239000" />
       <workItem from="1679586153452" duration="18197000" />
-      <workItem from="1680191241664" duration="19429000" />
+      <workItem from="1680191241664" duration="28956000" />
     </task>
     <servers />
   </component>
